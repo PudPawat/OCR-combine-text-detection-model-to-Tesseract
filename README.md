@@ -1,6 +1,8 @@
 # OCR reading local text
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/PudPawat/OCR-combine-text-detection-model-to-Tesseract/blob/master/image/2.png)
+
+![](https://github.com/PudPawat/OCR-combine-text-detection-model-to-Tesseract/blob/master/image/1.png)
 
 
 
