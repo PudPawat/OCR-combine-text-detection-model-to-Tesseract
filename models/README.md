@@ -1,0 +1,11 @@
+Put your models here as follows
+- `blur_classification`
+    - <your model>
+- `deblur`
+    - <your model>
+- `sticker_detect`
+    - <your model>
+- `text_detect`
+    - <your model>
+- Models can be acquired from [here](https://drive.google.com/drive/u/2/folders/1UTU56l3Rw3UI7uCelu3O2XGn-AluL-cR).
+    - You might need to request for the authorization. Now is maintained by `Pawat RD-Taipei ext.5676`
