@@ -13,3 +13,6 @@
 ### Algorithm
 - we use EAST text detector to crop text boxes. 
 - read text in those text box and show the result in the boxes. 
+
+###### text detection 
+ref https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
